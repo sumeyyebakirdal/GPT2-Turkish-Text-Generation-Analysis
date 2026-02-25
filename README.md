@@ -44,7 +44,6 @@ As detailed in the research paper:
 
 ## 📂 Repository Structure
 * `GPT2_Sampling_Metrics_Turkish.ipynb`: Full implementation of the generation and evaluation pipeline.
-* `İleri_dogal_dil_isleme_sumeyye_bakirdal.pdf`: The complete technical research paper (in Turkish).
-* `data/`: Sample prompts and generated outputs used for human scoring.
-
+* `nlp.pdf`: The complete technical research paper (in Turkish).
+  
 ---
